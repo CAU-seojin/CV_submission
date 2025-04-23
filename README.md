@@ -23,5 +23,6 @@
 4. 필요 패키지 설치
     
 `pip install -r requirements.txt`
+
 ---
 `requirements.txt` 설치할 때, 꼭 cu118을 확인할 것! 이는 device와 연계됨!!
