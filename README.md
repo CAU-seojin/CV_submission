@@ -1,8 +1,8 @@
 # CV_submission
 
-### submission_1_20220515.py: yolov8n
+### submission_1_20220515.py: yolov8n 
 
-### submission_2_20220515.py: hyper-yolot
+### submission_2_20220515.py: hyper-yolot (Proposed)
 
 ### submission_3_20220515.py: yolov12n
 ---
