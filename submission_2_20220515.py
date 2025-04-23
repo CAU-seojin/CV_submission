@@ -17,8 +17,8 @@ def submission_2_20220515(yaml_path, output_json_path):
     epochs = 20 # less than 20
     batch_size = 16 # less than 16
     optimizer = 'AdamW' 
-    lr = 5e-3
-    momentum = 0.9
+    lr = 2.1e-3
+    momentum = 0.935
     weight_decay = 1e-4
 
     ###### can be modified (Only Models, which can't be modified in demo) ######
