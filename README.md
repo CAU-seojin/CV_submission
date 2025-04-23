@@ -1,0 +1,25 @@
+# CV_submission
+
+### submission_1_20220515.py: yolov8n
+
+### submission_2_20220515.py: hyper-yolot
+
+### submission_3_20220515.py: yolov12n
+---
+1. 가상환경 생성
+
+`conda create -n cv pthon=3.10`
+
+2. 가상환경 활성화
+ 
+`conda activate cv`
+
+3. Jupyter Kernel 등록
+   
+`pip install ipykernel`
+
+`python -m ipykernel install --user --name cv --display-name cv`
+
+4. 필요 패키지 설치
+    
+`pip install -r requirements.txt`
